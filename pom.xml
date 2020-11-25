@@ -72,7 +72,6 @@
                             </limits>
                         </rule>
                     </rules>
-                    <skip>true</skip>
                 </configuration>
             </plugin>
         </plugins>
